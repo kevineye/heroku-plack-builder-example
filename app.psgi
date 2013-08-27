@@ -1,3 +1,5 @@
+#!/usr/bin/env plackup
+
 use strict;
 use Plack::App::CGIBin;
 use Plack::App::Directory;
