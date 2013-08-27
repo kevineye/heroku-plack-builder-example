@@ -3,6 +3,8 @@ Heroku Plack::Builder Example
 
 Example PSGI app on Heroku.
 
+Also see presentation at http://prezi.com/ytuef7kz3fc7/modern-perl-webapps-in-the-cloud/
+
 ## Development
 
 1. Add dependencies to `cpanfile`
